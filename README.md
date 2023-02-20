@@ -4,7 +4,7 @@
 
 - 👀 Interested in creative coding, data visualization, and technical direction for motion graphics
 - 🌱 Currently learning JavaScript, Python, and VEX
-- 💞️ Excited to collaborate on FUI for entertainment, UI for gaming and AR/VR/XR, and real-time visualization for both passive and interactive installations
+- 🙌 Excited to collaborate on FUI for entertainment, UI for gaming and AR/VR/XR, and real-time visualization for both passive and interactive installations
 - 📫 Easily contacted at **skye@skye-x.com**
 
 Please enjoy my **[motion design portfolio](https://skyex.cargo.site)**!
