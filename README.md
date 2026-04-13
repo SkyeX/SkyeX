@@ -1,15 +1,22 @@
-# Hello! I’m Skye X.
+# Skye X
 
-## I am:
+**Creative Technologist & Art Director**
 
-- 👀 Interested in creative coding, data visualization, and technical direction for motion graphics
-- 🌱 Currently learning JavaScript, Python, and VEX
-- 🙌 Excited to collaborate on FUI for entertainment, UI for gaming and AR/VR/XR, and real-time visualization for both passive and interactive installations
-- 📫 Easily contacted via **[email](mailto:l61475kvc@mozmail.com)**
+Building tools, systems, and experiments at the intersection of design and technology. Focused on real-time graphics, procedural workflows, interactive media, and design automation.
 
-Please enjoy my **[motion design portfolio](https://skyex.cargo.site)**!
+### Repositories
 
-If you find my work useful, you can buy me a **[coffee](https://ko-fi.com/skyex)**.
+– **AfterEffects:** Expressions, presets, and project templates for Adobe After Effects.
+– **TouchDesigner:** Components, tools, and experiments for Derivative TouchDesigner.
+
+### Currently working on
+
+– TouchDesigner component library for real-time and generative workflows
+
+### Elsewhere
+
+Portfolio: [skye-x.com](https://skye-x.com)
+Email: [skye@skye-x.com](mailto:skye@skye-x.com)
 
 <!---
 SkyeX/SkyeX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
