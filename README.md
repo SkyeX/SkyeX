@@ -6,8 +6,8 @@ Building tools, systems, and experiments at the intersection of design and techn
 
 ### Repositories
 
-– **AfterEffects:** Expressions, presets, and project templates for Adobe After Effects.
-– **TouchDesigner:** Components, tools, and experiments for Derivative TouchDesigner.
+– **AfterEffects:** Expressions, presets, and project templates for Adobe After Effects  
+– **TouchDesigner:** Components, tools, and experiments for Derivative TouchDesigner
 
 ### Currently working on
 
@@ -15,8 +15,8 @@ Building tools, systems, and experiments at the intersection of design and techn
 
 ### Elsewhere
 
-Portfolio: [skye-x.com](https://skye-x.com)
-Email: [skye@skye-x.com](mailto:skye@skye-x.com)
+– Portfolio: [skye-x.com](https://skye-x.com)  
+– Email: [skye@skye-x.com](mailto:skye@skye-x.com)
 
 <!---
 SkyeX/SkyeX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
