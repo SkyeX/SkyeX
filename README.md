@@ -18,6 +18,10 @@ Building tools, systems, and experiments at the intersection of design and techn
 – Portfolio: [skye-x.com](https://skye-x.com)  
 – Email: [skye@skye-x.com](mailto:skye@skye-x.com)
 
+### Support
+
+If you like what I do and find it useful, you can buy me a [coffee](https://ko-fi.com/skyex)
+
 <!---
 SkyeX/SkyeX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
